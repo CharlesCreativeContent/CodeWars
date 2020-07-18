@@ -11,4 +11,4 @@ mango(9, 5) ==> 30   # 6 mangoes for 5 = 30; +3 mangoes for free
 function mango(q, p){
 return (q-Math.floor(q/3))*p
 }
- 
+  
