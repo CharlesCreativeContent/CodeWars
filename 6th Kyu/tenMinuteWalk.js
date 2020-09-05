@@ -5,3 +5,4 @@ if (walk.filter(x=>x==='n').length!==walk.filter(x=>x==='s').length||walk.filter
 return false
 }else{return true}
 }
+ 
