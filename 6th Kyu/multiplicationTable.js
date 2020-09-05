@@ -15,3 +15,4 @@ multiplicationTable = function(size) {
 let A = [...new Array(size).keys()].map(x=>x+1)
 return A.map(x=>A.map(y=>y*x))
 }
+ 
