@@ -12,4 +12,4 @@ EvenOdd([3,2])   => 6
 */
 
 //Answer//
-const EvenOdd = a => a.reduce((a,b,i)=>!(i%2)?a+b:a*b,0)
+const EvenOdd = a => a.reduce((a,b,i)=>!(i%2)?a+b:a*b,0) 
