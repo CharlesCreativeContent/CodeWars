@@ -1,5 +1,5 @@
 # CodeWars Challenges
-A repository filled with codewars challenges (kata). Currently done over 800+ challenges and push 5 solutions every week.
+A repository filled with codewars challenges (kata). Currently done over 1000+ challenges and push 5 solutions every week.
 
 **Link to Profile:** https://www.codewars.com/users/xshawncx
 
