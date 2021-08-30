@@ -3,7 +3,7 @@ A repository filled with codewars challenges (kata). Currently done over 800+ ch
 
 **Link to Profile:** https://www.codewars.com/users/xshawncx
 
-![alt tag](https://i.imgur.com/z2XBKfr.png)
+![alt tag](https://github.com/CharlesCreativeContent/CodeWars/blob/master/Screen%20Shot%202021-08-30%20at%204.42.52%20PM.png)
 
 ## How It's Made:
 
