@@ -1,6 +1,6 @@
 # CodeWars Challenges
 
-**Link to Profile:** <a target="_blank" href="https://www.codewars.com/users/xshawncx" >Visit Here</a> 
+**Link to Profile:** <a target="_blank" href="https://shawncharles.com/Codewars" >Visit Here</a> 
 
 ![alt tag](https://github.com/CharlesCreativeContent/CodeWars/blob/master/Screen%20Shot%202021-08-30%20at%204.42.52%20PM.png)
 A repository filled with codewars challenges (kata). Currently done over 1000+ challenges and push 5 solutions every week.
