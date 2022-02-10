@@ -5,7 +5,7 @@ A repository filled with codewars challenges (kata). Currently Ranked #1305 on t
 
 ## How It's Made:
 
-**Tech used:** JavaScript
+**Tech used:** <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
 
 Everyday, the first thing I do is solve a Codewar! 
 
